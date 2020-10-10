@@ -273,10 +273,10 @@
 
 // Background Reading (NFC)
 
-"settings.useNFC.title"                     = "背景阅读";
-"settings.useNFC.footer.title"              = "如果启用，当您点击边缘NFC标签时，钱包将自动启动。";
-"settings.useNFC.footer.unsupported"        = "不幸的是，您的硬件似乎不支持NFC，因此无法启用此功能。";
-"settings.useNFC.nfcSendLabel"              = "启用NFC";
+"settings.br.title"                         = "背景阅读";
+"settings.br.footer.title"                  = "如果启用，当您点击边缘NFC标签时，钱包将自动启动。";
+"settings.br.footer.unsupported"            = "不幸的是，您的硬件似乎不支持NFC，因此无法启用此功能。";
+"settings.br.nfcSendLabel"                  = "启用NFC";
 
 // Tor connection
 

@@ -226,10 +226,10 @@
 "settings.useFaceID.sendingLabel" = "XVGの送信中";
 
 /*Background Reading (NFC)*/
-"settings.useNFC.title" = "背景の読書";
-"settings.useNFC.footer.title" = "有効にすると、VergeNFCタグをタップするとウォレットが自動的に起動します。";
-"settings.useNFC.footer.unsupported" = "残念ながら、ハードウェアはNFCをサポートしていないようであるため、この機能を有効にすることはできません。";
-"settings.useNFC.nfcSendLabel" = "NFCを有効にする";
+"settings.br.title" = "背景の読書";
+"settings.br.footer.title" = "有効にすると、VergeNFCタグをタップするとウォレットが自動的に起動します。";
+"settings.br.footer.unsupported" = "残念ながら、ハードウェアはNFCをサポートしていないようであるため、この機能を有効にすることはできません。";
+"settings.br.nfcSendLabel" = "NFCを有効にする";
 
 /*Tor connection*/
 "settings.torConnection.titleLabel" = "Torはプライバシーのために使用し、現在地も匿名化されます";

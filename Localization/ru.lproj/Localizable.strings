@@ -266,10 +266,10 @@
 
 // Background Reading (NFC)
 
-"settings.useNFC.title"                     = "Фоновое чтение";
-"settings.useNFC.footer.title"              = "Если этот параметр включен, кошелек будет автоматически запускаться при нажатии тега Verge NFC.";
-"settings.useNFC.footer.unsupported"        = "К сожалению, ваше оборудование не поддерживает NFC, поэтому эту функцию нельзя включить.";
-"settings.useNFC.nfcSendLabel"              = "Включить NFC";
+"settings.br.title"                     = "Фоновое чтение";
+"settings.br.footer.title"              = "Если этот параметр включен, кошелек будет автоматически запускаться при нажатии тега Verge NFC.";
+"settings.br.footer.unsupported"        = "К сожалению, ваше оборудование не поддерживает NFC, поэтому эту функцию нельзя включить.";
+"settings.br.nfcSendLabel"              = "Включить NFC";
 
 // Tor connection
 

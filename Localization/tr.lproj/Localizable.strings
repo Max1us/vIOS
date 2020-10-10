@@ -226,10 +226,10 @@
 "settings.useFaceID.sendingLabel" = "XVG Gönderiliyor";
 
 /*Background Reading (NFC)*/
-"settings.useNFC.title" = "Arka planda okuma";
-"settings.useNFC.footer.title" = "Etkinleştirilirse, bir Verge NFC etiketine dokunduğunuzda cüzdan otomatik olarak başlayacaktır.";
-"settings.useNFC.footer.unsupported" = "Maalesef donanımınız NFC'yi desteklemiyor gibi göründüğü için bu özellik etkinleştirilemez.";
-"settings.useNFC.nfcSendLabel" = "NFC'yi etkinleştir";
+"settings.br.title" = "Arka planda okuma";
+"settings.br.footer.title" = "Etkinleştirilirse, bir Verge NFC etiketine dokunduğunuzda cüzdan otomatik olarak başlayacaktır.";
+"settings.br.footer.unsupported" = "Maalesef donanımınız NFC'yi desteklemiyor gibi göründüğü için bu özellik etkinleştirilemez.";
+"settings.br.nfcSendLabel" = "NFC'yi etkinleştir";
 
 /*Tor connection*/
 "settings.torConnection.titleLabel" = "Tor, gizliliğiniz için burada ve lokasyonunuzu gizliyor!";

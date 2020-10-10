@@ -226,10 +226,10 @@
 "settings.useFaceID.sendingLabel" = "Đang gửi XVG";
 
 /*Background Reading (NFC)*/
-"settings.useNFC.title" = "Đọc nền";
-"settings.useNFC.footer.title" = "Nếu được bật, ví sẽ tự động khởi chạy khi bạn quét vào thẻ Verge NFC.";
-"settings.useNFC.footer.unsupported" = "Xin lỗi, thiết bị của bạn không hỗ trợ được cho chức năng cần thiết để đọc NFC nên không thực hiện được tính năng này";
-"settings.useNFC.nfcSendLabel" = "Sử dụng NFC";
+"settings.br.title" = "Đọc nền";
+"settings.br.footer.title" = "Nếu được bật, ví sẽ tự động khởi chạy khi bạn quét vào thẻ Verge NFC.";
+"settings.br.footer.unsupported" = "Xin lỗi, thiết bị của bạn không hỗ trợ được cho chức năng cần thiết để đọc NFC nên không thực hiện được tính năng này";
+"settings.br.nfcSendLabel" = "Sử dụng NFC";
 
 /*Tor connection*/
 "settings.torConnection.titleLabel" = "Tor ở đầy để có sự riêng tư và che giấu vị trí của bạn";

@@ -226,10 +226,10 @@
 "settings.useFaceID.sendingLabel" = "Skickar XVG";
 
 /*Background Reading (NFC)*/
-"settings.useNFC.title" = "Bakgrundsavläsning";
-"settings.useNFC.footer.title" = "Om den är aktiverad startar plånboken automatiskt när du trycker på en Verge NFC-tagg.";
-"settings.useNFC.footer.unsupported" = "Tyvärr verkar din hårdvara inte stödja NFC, så den här funktionen kan inte aktiveras.";
-"settings.useNFC.nfcSendLabel" = "Aktivera NFC";
+"settings.br.title" = "Bakgrundsavläsning";
+"settings.br.footer.title" = "Om den är aktiverad startar plånboken automatiskt när du trycker på en Verge NFC-tagg.";
+"settings.br.footer.unsupported" = "Tyvärr verkar din hårdvara inte stödja NFC, så den här funktionen kan inte aktiveras.";
+"settings.br.nfcSendLabel" = "Aktivera NFC";
 
 /*Tor connection*/
 "settings.torConnection.titleLabel" = "Tor finns här för din integritet och döljer din platsposition";

@@ -224,10 +224,10 @@
 "settings.useFaceID.sendingLabel" = "Šaljem XVG";
 
 /*Background Reading (NFC)*/
-"settings.useNFC.title" = "Čitanje u pozadini";
-"settings.useNFC.footer.title" = "Ako je omogućeno, novčanik će se automatski pokrenuti kada dodirnete Verge NFC oznaku.";
-"settings.useNFC.footer.unsupported" = "Nažalost, čini se da vaš hardver ne podržava NFC, pa ovu značajku nije moguće omogućiti.";
-"settings.useNFC.nfcSendLabel" = "Omogući NFC";
+"settings.br.title" = "Čitanje u pozadini";
+"settings.br.footer.title" = "Ako je omogućeno, novčanik će se automatski pokrenuti kada dodirnete Verge NFC oznaku.";
+"settings.br.footer.unsupported" = "Nažalost, čini se da vaš hardver ne podržava NFC, pa ovu značajku nije moguće omogućiti.";
+"settings.br.nfcSendLabel" = "Omogući NFC";
 
 /*Tor connection*/
 "settings.torConnection.titleLabel" = "TOR je ovdje zbog privatnosti, i on skriva Vašu lokaciju";

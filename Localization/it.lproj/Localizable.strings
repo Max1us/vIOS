@@ -226,10 +226,10 @@
 "settings.useFaceID.sendingLabel" = "Inviando XVG";
 
 /*Background Reading (NFC)*/
-"settings.useNFC.title" = "Lettura in background";
-"settings.useNFC.footer.title" = "Se abilitato, il portafoglio verrà avviato automaticamente quando tocchi un tag NFC di Verge.";
-"settings.useNFC.footer.unsupported" = "Sfortunatamente il tuo hardware non sembra supportare NFC, quindi questa funzione non può essere abilitata.";
-"settings.useNFC.nfcSendLabel" = "Abilita NFC";
+"settings.br.title" = "Lettura in background";
+"settings.br.footer.title" = "Se abilitato, il portafoglio verrà avviato automaticamente quando tocchi un tag NFC di Verge.";
+"settings.br.footer.unsupported" = "Sfortunatamente il tuo hardware non sembra supportare NFC, quindi questa funzione non può essere abilitata.";
+"settings.br.nfcSendLabel" = "Abilita NFC";
 
 /*Tor connection*/
 "settings.torConnection.titleLabel" = "Tor è qui per la tua privacy e nasconde la tua localizzazione";

@@ -226,10 +226,10 @@
 "settings.useFaceID.sendingLabel" = "Senden XVG";
 
 /*Background Reading (NFC)*/
-"settings.useNFC.title" = "Hintergrund Lesen";
-"settings.useNFC.footer.title" = "Wenn diese Option aktiviert ist, wird die Brieftasche automatisch gestartet, wenn Sie auf ein Verge NFC-Tag tippen.";
-"settings.useNFC.footer.unsupported" = "Leider scheint deine Hardware NFCnicht zu unterstütz, deswegen kannst du die Funktion nicht nutzen.";
-"settings.useNFC.nfcSendLabel" = "Aktivieren sie NFC";
+"settings.br.title" = "Hintergrund Lesen";
+"settings.br.footer.title" = "Wenn diese Option aktiviert ist, wird die Brieftasche automatisch gestartet, wenn Sie auf ein Verge NFC-Tag tippen.";
+"settings.br.footer.unsupported" = "Leider scheint deine Hardware NFCnicht zu unterstütz, deswegen kannst du die Funktion nicht nutzen.";
+"settings.br.nfcSendLabel" = "Aktivieren sie NFC";
 
 /*Tor connection*/
 "settings.torConnection.titleLabel" = "Tor ist für deine Privatsphäre zuständig und versteckt deinen Standort.";
