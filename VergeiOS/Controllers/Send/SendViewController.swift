@@ -673,12 +673,20 @@ extension SendViewController: SendTransactionDelegate {
             self.navigationItem.rightBarButtonItem = nil
         }
 
-        if let currency = transaction.fiatCurrency {
+        /* Not entirely correct either, but at least it doesn't switch to FIAT every time you enter XVG */
+        if (self.currentCurrency() == "XVG") {
+            self.updateAmountLabel()
+            self.updateWalletAmountLabel()
+        } else {
+            self.didSelectCurrency(currency: transaction.fiatCurrency!, sender: nil)
+        }
+
+        /*if let currency = transaction.fiatCurrency {
             self.didSelectCurrency(currency: currency, sender: nil)
         } else {
             self.updateAmountLabel()
             self.updateWalletAmountLabel()
-        }
+        }*/
     }
 
     func getSendTransaction() -> WalletTransactionFactory {
